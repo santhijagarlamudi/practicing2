@@ -41,7 +41,9 @@ obj1.display();
 obj1.multiply();
 obj1.display();
 
-		
+	System.out.println("this is my git practice1");	
+	System.out.println("this is my git practice2");	
+	System.out.println("this is my git practice3");	
 				
 			
 				
